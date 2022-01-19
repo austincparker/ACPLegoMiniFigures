@@ -14,6 +14,7 @@ namespace ACPLegoMiniFigures.Models
         }
 
         public bool HasHat { get; set; }
+        public bool HasPatch { get; set; }
 
     }
 }
